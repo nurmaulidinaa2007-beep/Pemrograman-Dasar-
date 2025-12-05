@@ -1,5 +1,3 @@
-# nama :masriadi
-# nim : 
 # Dictionary
 
 # contoh data senjata pada game
@@ -40,3 +38,4 @@ print(len(weapon))
 
 
     
+
